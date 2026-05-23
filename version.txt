@@ -1,2 +1,2 @@
-1.0
+1.1
 https://github.com/darkxmad436-beep/ColorTrigger/releases/download/v1.0/ColorTrigger.exe
